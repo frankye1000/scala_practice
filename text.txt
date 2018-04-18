@@ -1,2 +1,5 @@
 Hello I am Frank Ye,
 Nice to meet you.
+I working in ASUS.
+I am a data scientist.
+You can contact me github:frankye1000.
